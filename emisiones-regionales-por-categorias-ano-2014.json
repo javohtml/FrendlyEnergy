@@ -1,0 +1,146 @@
+[
+ {
+   "FIELD1": "Región",
+   "FIELD2": "Industria de la energía",
+   "FIELD3": "Industria manufactureras y de la construcción",
+   "FIELD4": "Transporte",
+   "FIELD5": "Otros sectores",
+   "FIELD6": "Emisiones fugitivas",
+   "FIELD7": "Total"
+ },
+ {
+   "FIELD1": "ARICA Y PARINACOTA",
+   "FIELD2": "0,00",
+   "FIELD3": "310,60",
+   "FIELD4": "592,00",
+   "FIELD5": "100,20",
+   "FIELD6": "0,00",
+   "FIELD7": "1.002,90"
+ },
+ {
+   "FIELD1": "TARAPACÁ",
+   "FIELD2": "3.278,70",
+   "FIELD3": "1.182,50",
+   "FIELD4": "841,40",
+   "FIELD5": "175,40",
+   "FIELD6": "0,00",
+   "FIELD7": "5.478,00"
+ },
+ {
+   "FIELD1": "ANTOFAGASTA",
+   "FIELD2": "10.877,10",
+   "FIELD3": "3.552,10",
+   "FIELD4": "1.911,10",
+   "FIELD5": "294,80",
+   "FIELD6": "0,00",
+   "FIELD7": "16.635,10"
+ },
+ {
+   "FIELD1": "ATACAMA",
+   "FIELD2": "3.865,50",
+   "FIELD3": "814,20",
+   "FIELD4": "527,00",
+   "FIELD5": "87,60",
+   "FIELD6": "0,00",
+   "FIELD7": "5.294,30"
+ },
+ {
+   "FIELD1": "COQUIMBO",
+   "FIELD2": "35,90",
+   "FIELD3": "476,10",
+   "FIELD4": "660,30",
+   "FIELD5": "150,20",
+   "FIELD6": "0,00",
+   "FIELD7": "1.322,60"
+ },
+ {
+   "FIELD1": "VALPARAÍSO",
+   "FIELD2": "9.456,20",
+   "FIELD3": "1.551,10",
+   "FIELD4": "3.187,10",
+   "FIELD5": "322,00",
+   "FIELD6": "0,00",
+   "FIELD7": "14.516,40"
+ },
+ {
+   "FIELD1": "REGIÓN METROPOLITANA",
+   "FIELD2": "1.285,00",
+   "FIELD3": "2.613,70",
+   "FIELD4": "8.194,20",
+   "FIELD5": "2.076,80",
+   "FIELD6": "0,00",
+   "FIELD7": "14.169,60"
+ },
+ {
+   "FIELD1": "O'HÍGGINS",
+   "FIELD2": "53,40",
+   "FIELD3": "607,80",
+   "FIELD4": "1.444,00",
+   "FIELD5": "292,40",
+   "FIELD6": "0,00",
+   "FIELD7": "2.397,60"
+ },
+ {
+   "FIELD1": "DEL MAULE",
+   "FIELD2": "10,00",
+   "FIELD3": "458,60",
+   "FIELD4": "445,50",
+   "FIELD5": "226,10",
+   "FIELD6": "0,00",
+   "FIELD7": "1.140,30"
+ },
+ {
+   "FIELD1": "BÍO BÍO",
+   "FIELD2": "5.701,80",
+   "FIELD3": "2.314,00",
+   "FIELD4": "2.418,40",
+   "FIELD5": "741,10",
+   "FIELD6": "56,20",
+   "FIELD7": "11.231,40"
+ },
+ {
+   "FIELD1": "ARAUCANÍA",
+   "FIELD2": "9,90",
+   "FIELD3": "233,30",
+   "FIELD4": "308,40",
+   "FIELD5": "247,70",
+   "FIELD6": "0,00",
+   "FIELD7": "799,40"
+ },
+ {
+   "FIELD1": "LOS RÍOS",
+   "FIELD2": "44,60",
+   "FIELD3": "263,70",
+   "FIELD4": "570,20",
+   "FIELD5": "140,90",
+   "FIELD6": "0,00",
+   "FIELD7": "1.019,40"
+ },
+ {
+   "FIELD1": "LOS LAGOS",
+   "FIELD2": "0,30",
+   "FIELD3": "761,50",
+   "FIELD4": "1.459,80",
+   "FIELD5": "427,90",
+   "FIELD6": "0,00",
+   "FIELD7": "2.649,50"
+ },
+ {
+   "FIELD1": "AYSÉN",
+   "FIELD2": "31,30",
+   "FIELD3": "50,90",
+   "FIELD4": "302,00",
+   "FIELD5": "141,60",
+   "FIELD6": "0,00",
+   "FIELD7": "525,80"
+ },
+ {
+   "FIELD1": "MAGALLANES",
+   "FIELD2": "1.025,70",
+   "FIELD3": "272,50",
+   "FIELD4": "846,90",
+   "FIELD5": "597,00",
+   "FIELD6": "831,30",
+   "FIELD7": "3.573,40"
+ }
+]

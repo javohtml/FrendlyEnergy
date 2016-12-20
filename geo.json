@@ -1,0 +1,372 @@
+{
+	"move": "NO",
+	"resultado": [{
+		"gid": 1,
+		"nombre": "ESPERANZA",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [437354, 7091674]
+		},
+		"images": "{}",
+		"provincia": "CHANARAL",
+		"propiedad": "RTS ENERGIA LTDA.",
+		"tipo": "SOLAR",
+		"potenciamw": "2.880000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2013",
+		"coord_este": "437354.000000000000000",
+		"coor_norte": "7091674.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "III REGION DE ATACAMA",
+		"comuna": "DIEGO DE ALMAGRO",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 2,
+		"nombre": "SOLAR HORNITOS",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [382588, 6931619]
+		},
+		"images": "{}",
+		"provincia": "COPIAPO",
+		"propiedad": "SUBSOLE ENERGIAS RENOVABLES LTDA.",
+		"tipo": "SOLAR",
+		"potenciamw": "0.300000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2013",
+		"coord_este": "382588.000000000000000",
+		"coor_norte": "6931619.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "III REGION DE ATACAMA",
+		"comuna": "TIERRA AMARILLA",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 3,
+		"nombre": "LA HUAYCA SPS-1",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [444301, 7738125]
+		},
+		"images": "{}",
+		"provincia": "TAMARUGAL",
+		"propiedad": "SELRAY ENERGIAS LTDA.",
+		"tipo": "SOLAR",
+		"potenciamw": "1.400000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2012",
+		"coord_este": "444301.000000000000000",
+		"coor_norte": "7738125.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "I REGION DE TARAPACA",
+		"comuna": "POZO AL MONTE",
+		"sist_elect": "SING"
+	}, {
+		"gid": 4,
+		"nombre": "MARIA ELENA",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [440571, 7542664]
+		},
+		"images": "{}",
+		"provincia": "TOCOPILLA",
+		"propiedad": "GENERACION SOLAR SPA",
+		"tipo": "SOLAR",
+		"potenciamw": "68.000000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2015",
+		"coord_este": "440571.000000000000000",
+		"coor_norte": "7542664.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "II REGION DE ANTOFAGASTA",
+		"comuna": "MARIA ELENA",
+		"sist_elect": "SING"
+	}, {
+		"gid": 5,
+		"nombre": "POZO ALMONTE SOLAR 2",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [421467, 7758012]
+		},
+		"images": "{}",
+		"provincia": "EL TAMARUGAL",
+		"propiedad": "POZO ALMONTE SOLAR 2",
+		"tipo": "SOLAR",
+		"potenciamw": "7.500000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "421467.000000000000000",
+		"coor_norte": "7758012.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "I REGION DE TARAPACA",
+		"comuna": "POZO ALMONTE",
+		"sist_elect": "SING"
+	}, {
+		"gid": 6,
+		"nombre": "POZO ALMONTE SOLAR 3",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [421642, 7760809]
+		},
+		"images": "{}",
+		"provincia": "EL TAMARUGAL",
+		"propiedad": "POZO ALMONTE SOLAR 3",
+		"tipo": "SOLAR",
+		"potenciamw": "16.000000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "421642.000000000000000",
+		"coor_norte": "7760809.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "I REGION DE TARAPACA",
+		"comuna": "POZO ALMONTE",
+		"sist_elect": "SING"
+	}, {
+		"gid": 7,
+		"nombre": "PSF CASAS BLANCAS",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [306502, 6547012]
+		},
+		"images": "{}",
+		"provincia": "COMBARBALA",
+		"propiedad": "PSF PAMA S.A.",
+		"tipo": "SOLAR",
+		"potenciamw": "2.000000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "306502.000000000000000",
+		"coor_norte": "6547012.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "IV REGION DE COQUIMBO",
+		"comuna": "COMBARBALA",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 8,
+		"nombre": "SDGX01",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [298624, 6654191]
+		},
+		"images": "{}",
+		"provincia": "ELQUI",
+		"propiedad": "SOLAIREDIRECT",
+		"tipo": "SOLAR",
+		"potenciamw": "1.280000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2013",
+		"coord_este": "298624.000000000000000",
+		"coor_norte": "6654191.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "IV REGION DE COQUIMBO",
+		"comuna": "ANDACOLLO",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 9,
+		"nombre": "SOLAR SANTA CECILIA",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [313828, 6777519]
+		},
+		"images": "{}",
+		"provincia": "HUASCO",
+		"propiedad": "COMMONPLACE ENERGY S.A.",
+		"tipo": "SOLAR",
+		"potenciamw": "3.000000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2013",
+		"coord_este": "313828.000000000000000",
+		"coor_norte": "6777519.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "III REGION DE ATACAMA",
+		"comuna": "VALLENAR",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 10,
+		"nombre": "SOLAR DIEGO DE ALMAGRO",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [398241, 7081948]
+		},
+		"images": "{}",
+		"provincia": "CHANARAL",
+		"propiedad": "ALMEYDA SOLAR SPA",
+		"tipo": "SOLAR",
+		"potenciamw": "28.100000000000001",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "398241.000000000000000",
+		"coor_norte": "7081948.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "III REGION DE ATACAMA",
+		"comuna": "DIEGO DE ALMAGRO",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 11,
+		"nombre": "SOLAR LAS TERRAZAS",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [367713, 6943227]
+		},
+		"images": "{}",
+		"provincia": "COPIAPO",
+		"propiedad": "EBCO ENERGIA S.A",
+		"tipo": "SOLAR",
+		"potenciamw": "3.000000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "367713.000000000000000",
+		"coor_norte": "6943227.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "III REGION DE ATACAMA",
+		"comuna": "TIERRA AMARILLA",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 12,
+		"nombre": "SOLAR LLANO DE LLAMPOS",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [383921, 7000014]
+		},
+		"images": "{}",
+		"provincia": "COPIAPO",
+		"propiedad": "AMANECER SOLAR SPA",
+		"tipo": "SOLAR",
+		"potenciamw": "101.000000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "383921.000000000000000",
+		"coor_norte": "7000014.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "III REGION DE ATACAMA",
+		"comuna": "COPIAPO",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 13,
+		"nombre": "SOLAR PSF LOMAS COLORADAS",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [307273, 6547980]
+		},
+		"images": "{}",
+		"provincia": "LIMARI",
+		"propiedad": "PSF LOMAS COLORADAS",
+		"tipo": "SOLAR",
+		"potenciamw": "2.000000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "307273.000000000000000",
+		"coor_norte": "6547980.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "IV REGION DE COQUIMBO",
+		"comuna": "COMBARBALA",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 14,
+		"nombre": "SOLAR SAN ANDRES",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [389995, 6984918]
+		},
+		"images": "{}",
+		"provincia": "COPIAPO",
+		"propiedad": "SAN ANDRES SPA",
+		"tipo": "SOLAR",
+		"potenciamw": "50.600000000000001",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "389995.000000000000000",
+		"coor_norte": "6984918.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "III REGION DE ATACAMA",
+		"comuna": "COPIAPO",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 15,
+		"nombre": "SOLAR TECHOS DE ALTAMIRA",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [357100, 6294539]
+		},
+		"images": "{}",
+		"provincia": "SANTIAGO",
+		"propiedad": "COLEGIO ALTAMIRA",
+		"tipo": "SOLAR",
+		"potenciamw": "0.150000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2014",
+		"coord_este": "357100.000000000000000",
+		"coor_norte": "6294539.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "XII REGION METROPOLITANA",
+		"comuna": "PENALOLEN",
+		"sist_elect": "SIC"
+	}, {
+		"gid": 16,
+		"nombre": "TAMBO REAL",
+		"thegeom": {
+			"type": "Point",
+			"coordinates": [329339, 6674517]
+		},
+		"images": "{}",
+		"provincia": "ELQUI",
+		"propiedad": "ENERGIA TERMICA KALTEMP LTDA.",
+		"tipo": "SOLAR",
+		"potenciamw": "2.940000000000000",
+		"unidades": "1.000000000000000",
+		"f_operacio": "2012",
+		"coord_este": "329339.000000000000000",
+		"coor_norte": "6674517.000000000000000",
+		"datum": "WGS84",
+		"huso": "19.000000000000000",
+		"region": "IV REGION DE COQUIMBO",
+		"comuna": "VICUNA",
+		"sist_elect": "SIC"
+	}],
+	"metadata": {
+		"id": 786,
+		"id_column": "gid",
+		"descripcion_columna": "nombre",
+		"tabla_capa": "archivos.subido_centrales_solares1448311052_15",
+		"nombre_capa": "Centrales Solares",
+		"image_url": "centrales_solares_m.svg",
+		"escala_min": 1600,
+		"escala_max": 450000000
+	},
+	"srid": 32719,
+	"alias": {
+		"provincia": "Provincia",
+		"propiedad": "Propietario",
+		"tipo": "Tipo",
+		"potenciamw": "Potencia MW",
+		"unidades": "Unidades",
+		"f_operacio": "Fecha Operaci\u00f3n",
+		"coord_este": "Coordenada Este",
+		"coor_norte": "Coordenada Norte",
+		"datum": "Datum",
+		"huso": "Uso",
+		"region": "Regi\u00f3n",
+		"comuna": "Comuna",
+		"sist_elect": "Sistema El\u00e9ctrico"
+	},
+	"conf_avanzada": null,
+	"clasificadores": "",
+	"categoriaSubCategoria": {
+		"nombre_categoria": "Electricidad",
+		"nombre_subcategoria": "Generaci\u00f3n"
+	}
+}
